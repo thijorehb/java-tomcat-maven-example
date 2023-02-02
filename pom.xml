@@ -27,7 +27,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>webapp-test-repo</name>
-	      <url>http://3.110.162.145:8081/repository/nexus-snapshot/</url>
+	      <url>http://13.127.48.235:8081/repository/nexus-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
